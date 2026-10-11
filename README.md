@@ -163,6 +163,12 @@ pnpm cli mcp
 
 ## Project guides
 
+### First contribution? Start here
+
+[![First-timers-only friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://www.firsttimersonly.com/)
+
+Browse [available beginner issues](https://github.com/Sandesh13fr/TCalc/issues?q=is%3Aissue%20is%3Aopen%20label%3A%22good%20first%20issue%22%20label%3Aup-for-grabs%20no%3Aassignee) and read the [first-contribution walkthrough](./CONTRIBUTING.md#your-first-open-source-contribution). Tasks labelled `first-timers-only` are reserved for your first open-source PR. Comment to request assignment before starting; maintainers can help with setup and review feedback.
+
 ### Troubleshooting VS Code test output
 
 - Missing `catalogs/models.json` or `.tcalc/models.json` files are optional workspace overrides; TCalc uses the catalogue bundled with the extension when neither exists.
