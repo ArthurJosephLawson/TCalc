@@ -64,6 +64,8 @@ See the [VSIX installation guide](./docs/install-vsix.md) for the local package 
 
 Build once, then scan, compare, or generate only the context you need:
 
+Building from source needs **Node.js 22** and **pnpm 11.5.2**. For the fork, clone, and setup walkthrough, see [CONTRIBUTING.md](./CONTRIBUTING.md).
+
 ```bash
 pnpm install
 pnpm build
